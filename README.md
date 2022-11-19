@@ -81,7 +81,8 @@ This algorithm respects five senses of intelligent automation     |     A simple
   * pkg install upgrade
   
 ### ON WINDOWS
-  * cd your-own-ai
+  * download contents
+  * enter to the folder by cmd
   * pip3 install -r requirements.txt
   * python3 -m pip install openai
   * python3 -m pip install art
