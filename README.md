@@ -72,13 +72,15 @@ This algorithm respects five senses of intelligent automation     |     A simple
 ### ON UBUNTU AND KALI:
   * sudo apt install update
   * sudo apt install upgrade
-  * git clone xxx
+  * git clone https://github.com/DottorCryTech/your-own-ai.git
   * cd your-own-ai
   * pip3 install -r requirements.txt
 
 ### ON TERMUX:
   * pkg install update
   * pkg install upgrade
+  * git clone https://github.com/DottorCryTech/your-own-ai.git
+  * pip3 install -r requirements.txt
   
 ### ON WINDOWS
   * download contents
@@ -88,7 +90,7 @@ This algorithm respects five senses of intelligent automation     |     A simple
   * python3 -m pip install art
   
 ## RUN BY:
-  * python3 your-own.py
+  * python3 your-own-ai.py
  
 # EXAMPLE:
 <img title="example1" src="https://i.postimg.cc/wMCpNFrr/ai1.png" width="400"></a> <img title="example2" src="https://i.postimg.cc/fbzhYVHM/ai2.png" width="400"></a>
